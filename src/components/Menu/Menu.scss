@@ -1,0 +1,30 @@
+.menu{
+    height: 100vh;
+    padding: 30px;
+    position: fixed;
+    nav{
+        ul{
+            text-align: left;
+            li{
+                margin-top: 40px;
+                a{
+                    display: inline-block;
+                    color: #000;
+                    font-size: 17px;
+                    font-weight: 200;
+                    text-transform: capitalize;
+                    .nav-icosn-ig{
+                        font-size: 25px;
+                        margin-right: 10px;
+                    }
+                    img{
+                        width: 25px;
+                        height: 25px;
+                        border-radius: 50%;
+                        margin-right: 10px;
+                    }
+                }
+            }
+        }
+    }
+}

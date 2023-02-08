@@ -1,0 +1,100 @@
+{
+  "userPost": [
+    {
+      "id": 1,
+      "username": "sayyid",
+      "userphoto": "https://i1.sndcdn.com/avatars-jRXwcAeJYYa5np7a-EGDQqA-t240x240.jpg",
+      "location": "sunamganj",
+      "postimage": "https://static.vecteezy.com/system/resources/previews/005/147/541/original/business-team-members-are-standing-with-confident-faces-business-icons-are-floating-above-their-heads-free-vector.jpg",
+      "postdesc": "Lorem ipsum dolor sit amet consectetur"
+    },
+    {
+      "id": 2,
+      "username": "Minhaj",
+      "userphoto": "https://rnbtheme.com/shortcodes/wp-content/uploads/2016/01/First_m-500x622.png",
+      "location": "tahirpur",
+      "postimage": "https://www.actioned.com/wp-content/uploads/2018/02/team-member-types-team-performance.png",
+      "postdesc": "heyyy ipsum dolor sit amet consectetur"
+    },
+    {
+      "username": "syedsadibd",
+      "userphoto": "http://demo.themecanyon.org/primax/images/primax/team/team-1.jpg",
+      "location": "Chadpur",
+      "postimage": "https://slidebazaar.com/wp-content/uploads/2017/11/Our-Team-Member-Powerpoint-and-Keynote-template.jpg",
+      "postdesc": "Mern Stact Developer",
+      "id": 3
+    },
+    {
+      "username": "lamiya",
+      "userphoto": "https://wpbeaveraddons.com/wp-content/uploads/2017/06/t1-2.png",
+      "location": "Khulna",
+      "postimage": "https://imageio.forbes.com/blogs-images/forbesbooksauthors/files/2019/08/bigstock-183651688.jpg?format=jpg&width=960",
+      "postdesc": "Digital Marketing Expert",
+      "id": 4
+    },
+    {
+      "username": "salika",
+      "userphoto": "https://demo.essentialplugin.com/prodemo/wp-content/uploads/2019/06/team-4.jpg",
+      "location": "Khulna",
+      "postimage": "https://ahpnetwork.com/wp-content/uploads/2019/08/team-640x480.jpg",
+      "postdesc": "Hey broooooooooo",
+      "id": 5
+    },
+    {
+      "username": "mohaimin",
+      "userphoto": "https://www.vitrine.ro/wp-content/uploads/2017/01/team-member-2-550x550.jpg",
+      "location": "saudi",
+      "postimage": "https://aboutleaders.com/wp-content/uploads/2019/03/Team-Motivation-Meeting.jpg",
+      "postdesc": "Im a Freelancer",
+      "id": 6
+    },
+    {
+      "username": "Mariya",
+      "userphoto": "http://fst.bem.unair.ac.id/himaki/wp-content/uploads/2017/02/team_member_02-540x540.jpg",
+      "location": "dhaka",
+      "postimage": "https://www.liquidplanner.com/wp-content/uploads/2021/03/3274830.jpg",
+      "postdesc": "We Love Js",
+      "id": 7
+    },
+    {
+      "username": "kamran",
+      "userphoto": "https://api.wpmet.com/auth/wp-content/uploads/2021/04/team_8.jpg",
+      "location": "Chadpur",
+      "postdesc": "Web Development",
+      "postimage": "https://wpmet.com/wp-content/uploads/2021/09/create_team_page-_with_elementor_featured_image.jpg",
+      "id": 8
+    },
+    {
+      "username": "2201",
+      "userphoto": "https://www.smallbizdaily.com/wp-content/uploads/2016/01/ThinkstockPhotos-536971725.jpg",
+      "location": "Chadpur",
+      "postimage": "https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/8%20Best%20Team%20Member%20WordPress%20Plugins%20(update).jpeg?width=1500&name=8%20Best%20Team%20Member%20WordPress%20Plugins%20(update).jpeg",
+      "postdesc": "heyyyyyyyy",
+      "id": 9
+    },
+    {
+      "username": "jakir",
+      "userphoto": "https://www.greenyardltd.com/public/uploads/team-member-6.jpg",
+      "location": "nowakhali",
+      "postimage": "https://www.liveabout.com/thmb/LvUGwaKECQ3XxtIcSLYnYwUNERI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/letters-of-appreciation-to-team-members-examples-2059554_final-01-ecd2ed73eb23429b9b74378004eff166.png",
+      "postdesc": "welc",
+      "id": 10
+    },
+    {
+      "username": "1122",
+      "userphoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUlELGy28S_ujJZfWfU580H9ylh4FmvdMo5i-cxplezW7pvWBAWR6ivQHoo0WZGMQ0oAo&usqp=CAU",
+      "location": "Khulna",
+      "postimage": "https://www.actioned.com/wp-content/uploads/2018/02/team-performance-creative-spark.png",
+      "postdesc": "asdffffffffff",
+      "id": 11
+    },
+    {
+      "username": "666",
+      "userphoto": "https://home.coworker.org/wp-content/uploads/2020/02/IMG_3129-1coloregradedcrop-1-scaled-e1663262704714.jpg",
+      "location": "Sylhet",
+      "postdesc": "vsdfgdgrd",
+      "postimage": "https://home.coworker.org/wp-content/uploads/2020/02/IMG_3129-1coloregradedcrop-1-scaled-e1663262704714.jpg",
+      "id": 12
+    }
+  ]
+}

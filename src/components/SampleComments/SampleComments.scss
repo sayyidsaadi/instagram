@@ -1,0 +1,21 @@
+.comments{
+    display: flex;
+    justify-content: space-between;
+    .comments-left{
+        p{
+            .comment-user-name{
+                cursor: pointer;
+                font-weight: 700;
+            }
+        }
+    }
+    .comments-right{
+        a{
+            display: inline-block;
+            color: #1c1e21;
+            &:hover{
+                color: #999;
+            }
+        }
+    }
+}

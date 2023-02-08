@@ -1,0 +1,43 @@
+.suggest-user-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .suggest-user-left{
+        display: flex;
+        align-items: center;
+        .suggest-user-img{
+            a{
+                img{
+                    width: 35px;
+                    height: 35px;
+                    border-radius: 50%;
+                }
+            }
+        }
+        .suggest-user-heading{
+            margin-left: 10px;
+            a{
+                display: inline-block;
+                font-size: 12px;
+                font-weight: 600;
+                color: #000;
+            }
+            p{
+                font-size: 12px;
+                font-weight: 100;
+                color: #7a7878;
+            }
+        }
+    }
+    .suggest-user-right{
+        a{
+            text-transform: capitalize;
+            display: inline-block;
+            font-size: 14px;
+            &:hover{
+                color: rgba(1, 99, 99, 0.74);
+            }
+        }
+    }
+}
+

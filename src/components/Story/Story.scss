@@ -1,0 +1,25 @@
+.story-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    .story{
+        text-align: center;
+        img{
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+            object-fit: cover;
+            background-color: rgba(255, 0, 0, 0.466);
+            padding: 2px;
+            cursor: pointer;
+        }
+        .user-name{
+            p{
+                font-size: 12px;
+                cursor: pointer;
+            }
+        }
+    }
+}

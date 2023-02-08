@@ -1,0 +1,31 @@
+.modal-blur {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.705);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  .modal-close-btn {
+    button {
+      position: absolute;
+      right: 20px;
+      font-size: 30px;
+      background: transparent;
+      border: none;
+      color: #fff;
+    }
+  }
+  .modal-wraper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    .modal-main {
+      width: 400px;
+      background-color: aliceblue;
+      border-radius: 20px;
+    }
+  }
+}
